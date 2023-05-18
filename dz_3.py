@@ -93,9 +93,9 @@ phone = Phone("Beeline, O!, Megacom")
 print(phone)
 phone.get_sim()
 phone._Phone__smcards_lst
-print(phone.call(1, '+9967065450535'))
-print(phone.call(2, '+9967065450535'))
-print(phone.call(3, '+9967065450535'))
+print(phone.call(1, '+9961234543654'))
+print(phone.call(2, '+9962453465232'))
+print(phone.call(3, '+9963546576877'))
 
 smart = Smartphone("1 пар", "2 пар")
 print(smart)
