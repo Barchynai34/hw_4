@@ -41,4 +41,4 @@ triangle3 = RightTriangle(6, 9)
 figures = [circle1, circle2, triangle1, triangle2, triangle3]
 
 for figure in figures:
-    figure.info()
+    figure.info() 
